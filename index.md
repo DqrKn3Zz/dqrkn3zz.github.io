@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Hola! Bienvenido a mi página de GitHub! :D
 
-You can use the [editor on GitHub](https://github.com/DqrKn3Zz/dqrkn3zz.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Mi nombre es Rodrigo, tengo 22 años, originario de México, tengo una afición enorme a desarrollo en Android, es un hobby muy divertido para mi, también me interesa el Internet de las cosas y auditorías de redes.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Desarrollo en Android
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ROMS Personalizadas, Kernels, Fixes, etc.
 
 ```markdown
-Syntax highlighted code block
+Algunos trabajos que he hecho durante un tiempo...
 
-# Header 1
-## Header 2
-### Header 3
+# Proyectos
 
-- Bulleted
-- List
+- LineageOS para los Samsung Galaxy S6, S6 Edge y Note 5.
+- Resurrection Remix para Galaxy Note 5.
+- crDroid para Galaxy Note 5 y S6 Edge+.
+- Android Open Illusion Project para Xiaomi Redmi Note 8/8T.
+- DerpFest para Xiaomi Redmi Note 8/8T.
+- Evolution X para Xiaomi Redmi Note 8/8T.
+- Resurrection Remix para Xiaomi Redmi Note 8/8T.
 
-1. Numbered
-2. List
+- Shadow Kernel para Xiaomi Redmi Note 8 (Trabajo en progreso y privado, por el momento).
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+git add happyness && git commit -u
+
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Para mas detalles, visita mi perfil en [XDA Developers](https://forum.xda-developers.com/member.php?u=6877568).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DqrKn3Zz/dqrkn3zz.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Soporte y Contacto
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Alguna duda o comentario? Revisa mis redes [Telegram](https://t.me/DqrKn3Zz) o [Twitter](https://twitter.com/DqrKn3Zz) y estaré respodiendote a la mayor brevedad posible.
