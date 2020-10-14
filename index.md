@@ -11,18 +11,19 @@ Algunos trabajos que he hecho durante un tiempo...
 
 # Proyectos
 
-- LineageOS para los Samsung Galaxy S6, S6 Edge y Note 5.
-- Resurrection Remix para Galaxy Note 5.
-- crDroid para Galaxy Note 5 y S6 Edge+.
-- Android Open Illusion Project para Xiaomi Redmi Note 8/8T.
-- DerpFest para Xiaomi Redmi Note 8/8T.
-- Evolution X para Xiaomi Redmi Note 8/8T.
-- Resurrection Remix para Xiaomi Redmi Note 8/8T.
+- LineageOS 15.1/16.0 para los Samsung Galaxy S6, S6 Edge y Note 5.
+- Resurrection Remix 6.2.x/7.x.x para Samsung Galaxy Note 5.
+- crDroid 6.x para Galaxy Note 5 y S6 Edge+.
+- RevengeOS 9 para Xiaomi Redmi Note 8/8T.
+- Android Open Illusion Project 9.0 para Xiaomi Redmi Note 8/8T.
+- DerpFest 9/10 para Xiaomi Redmi Note 8/8T.
+- Evolution X 4.x para Xiaomi Redmi Note 8/8T.
+- Resurrection Remix 8.x.x para Xiaomi Redmi Note 8/8T.
 
 - Shadow Kernel para Xiaomi Redmi Note 8 (Trabajo en progreso y privado, por el momento).
 
 
-git add happyness && git commit -u
+git add happyness.json && git commit -u
 
 
 ```
@@ -33,4 +34,4 @@ Para mas detalles, visita mi perfil en [XDA Developers](https://forum.xda-develo
 
 ### Soporte y Contacto
 
-Alguna duda o comentario? Revisa mis redes [Telegram](https://t.me/DqrKn3Zz) o [Twitter](https://twitter.com/DqrKn3Zz) y estaré respodiendote a la mayor brevedad posible.
+Alguna duda o comentario? Revisa mis redes [Telegram](https://t.me/DqrKn3Zz) o [Twitter](https://twitter.com/DqrKn3Zz?s=09) y estaré respodiendote a la mayor brevedad posible.
