@@ -15,7 +15,7 @@ Algunos trabajos que he hecho durante un tiempo...
 - Resurrection Remix 6.2.x/7.x.x para Samsung Galaxy Note 5.
 - crDroid 6.x para Galaxy Note 5 y S6 Edge+.
 - RevengeOS 9 para Xiaomi Redmi Note 8/8T.
-- Android Open Illusion Project 9.0 para Xiaomi Redmi Note 8/8T.
+- Android Open Source Illusion Project 9.0 para Xiaomi Redmi Note 8/8T.
 - DerpFest 9/10 para Xiaomi Redmi Note 8/8T.
 - Evolution X 4.x para Xiaomi Redmi Note 8/8T.
 - Resurrection Remix 8.x.x para Xiaomi Redmi Note 8/8T.
