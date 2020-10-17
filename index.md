@@ -13,12 +13,13 @@ Algunos trabajos que he hecho durante un tiempo...
 
 - LineageOS 15.1/16.0 para los Samsung Galaxy S6, S6 Edge y Note 5.
 - Resurrection Remix 6.2.x/7.x.x para Samsung Galaxy Note 5.
-- crDroid 6.x para Samsung Galaxy Note 5 y S6 Edge+.
-- RevengeOS 10 para Xiaomi Redmi Note 8/8T.
+- crDroid 5.x/6.x para Samsung Galaxy Note 5, S6, S6 Edge y S6 Edge+.
+- Evolution X 2.x para Samsung Galaxy S6 y S6 Edge.
+- RevengeOS 3.x para Xiaomi Redmi Note 8/8T.
 - Android Open Source Illusion Project 10 para Xiaomi Redmi Note 8/8T.
 - DerpFest 9/10 para Xiaomi Redmi Note 8/8T.
 - Evolution X 4.x para Xiaomi Redmi Note 8/8T.
-- Resurrection Remix 8.x.x para Xiaomi Redmi Note 8/8T.
+- Resurrection Remix 7.x.x/8.x.x para Xiaomi Redmi Note 8/8T.
 
 - Shadow Kernel para Xiaomi Redmi Note 8 (Trabajo en progreso y privado, por el momento).
 
