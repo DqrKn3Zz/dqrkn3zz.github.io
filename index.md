@@ -1,6 +1,6 @@
 ## Hola! Bienvenido a mi página de GitHub! :D
 
-Mi nombre es Rodrigo, tengo 22 años, originario de México, tengo una afición enorme a desarrollo en Android, es un hobby muy divertido para mi, también me interesa el Internet de las cosas y auditorías de redes.
+Mi nombre es Rodrigo, tengo 23 años, originario de México, tengo una afición enorme a desarrollo en Android, es un hobby muy divertido para mi, también me interesa el Internet de las cosas y auditorías de redes.
 
 ### Desarrollo en Android
 
@@ -24,8 +24,8 @@ Algunos trabajos que he hecho durante un tiempo...
 - Shadow Kernel para Xiaomi Redmi Note 8 (Trabajo en progreso y privado, por el momento).
 
 
-git add happyness.json && git commit -u
-
+git add happyness.json && git commit
+git push -u
 
 ```
 
